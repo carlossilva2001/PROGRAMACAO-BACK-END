@@ -15,6 +15,7 @@ var divisao = (a,b) => {
   else {
     return a / b;
   }
+  
 
 }
 
